@@ -8,10 +8,10 @@ def media_7_numeros():
      media = sum(nums)/ len(nums)
      return nums, media 
 
-if __ name__ == "_main_": 
-     nome_comleto = "Julia Ribeiro Costa"
+if __ name__ == "__main__": 
+     nome_completo = "Julia Ribeiro Costa"
 
-     print(cumprimento(nome_completo))
+     print(cumprimento(nome_-completo))
      
      nums, media = media_7_numeros()
      print("Numeros sorteados:",nums)
